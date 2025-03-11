@@ -22,7 +22,7 @@
     <section>
         <h2>Brancaccio</h2>
         <a href="underconstruction.html">
-            <img src="images/brancaccio.jpg" alt="skvth">
+            <img src="images/skvth.jpg" alt="skvth">
         </a>
     </section>
 
