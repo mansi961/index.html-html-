@@ -28,7 +28,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; Copyright Your Name, 2023</p>
+        <p>&copy; Copyright Mansi Sangani, 2023</p>
     </footer>
 </body>
 </html>
